@@ -207,7 +207,7 @@ jobs:
 And then export a function from your module:
 
 ```javascript
-module.exports = (github, context) => {
+module.exports = ({ github, context }) => {
   return context.payload.client_payload.value
 }
 ```
