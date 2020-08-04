@@ -1,5 +1,5 @@
-name: GitHub Script
-author: GitHub
+name: GitHub Script @ antfu
+author: Anthony Fu
 description: Run simple scripts using the GitHub client
 branding:
   color: blue
